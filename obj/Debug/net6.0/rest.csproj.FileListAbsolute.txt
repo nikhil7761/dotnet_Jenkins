@@ -1,0 +1,14 @@
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\bin\Debug\net6.0\rest.exe
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\bin\Debug\net6.0\rest.deps.json
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\bin\Debug\net6.0\rest.runtimeconfig.json
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\bin\Debug\net6.0\rest.dll
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\bin\Debug\net6.0\rest.pdb
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\rest.AssemblyInfoInputs.cache
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\rest.AssemblyInfo.cs
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\rest.csproj.CoreCompileInputs.cache
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\rest.dll
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\refint\rest.dll
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\rest.pdb
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\rest.genruntimeconfig.cache
+C:\Users\sai\Desktop\Learning Phase 2023\dotnet23\rest\obj\Debug\net6.0\ref\rest.dll
